@@ -1,0 +1,10 @@
+htbuilder==0.6.1
+streamlit
+streamlit-extras
+streamlit-authenticator==0.1.5
+python-dotenv
+deta
+google-cloud-storage
+streamlit_option_menu
+pickle5
+streamlit_echarts
